@@ -2,11 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=webm0fe&color=blueviolet&style=plastic)
 
-## I'm a FrontEnd Developer
-- 💪 I like to write code
-- 🎉 I love to write code in my spare time
-- 🥅 I am constantly learning new things
-
 ### Connect with me:
 
 [<img align="left" alt="kitme.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
