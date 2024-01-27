@@ -29,6 +29,6 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=webm0fe&show_icons=true" />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webm0fe&langs_count=8&layout=compact" />
 
-[website]: https://kitme.ru/
+[website]: https://vmayoroff.ru/
 [vk]: https://vk.com/victor.mayorov
-[telegram]: https://t.me/webm0fe
+[telegram]: https://t.me/victor_mayorov
